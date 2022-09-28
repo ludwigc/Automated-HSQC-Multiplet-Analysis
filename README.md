@@ -1,4 +1,6 @@
 # Automated-HSQC-Multiplet-Analysis
+[![DOI](https://zenodo.org/badge/541584327.svg)](https://zenodo.org/badge/latestdoi/541584327)
+
 Extended data for automated analysis for multiplet identification from ultra-high resolution 2D-1H,13C-HSQC NMR spectra
 
 This repository contains extended data and the implementation of an ICA based algorithm for automated analysis for multiplet identification and analysis of ultra-high resolution 2D-1H,13C-HSQC NMR spectra. 
